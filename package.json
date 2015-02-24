@@ -2,7 +2,7 @@
     "name": "ericcirone.disable-search-border",
     "title": "Disable Search Border",
     "description": "When searching, hate when the words get a border and effect the spacing? This fixes that.",
-    "homepage": "https://github.com/ericcirone/brackets/tree/master/disable-search-border",
+    "homepage": "https://github.com/ericcirone/brackets-DisableSearchBorder",
     "version": "1.0.0",
     "author": "Eric cirone (https://github.com/ericcirone)",
     "license": "MIT"
